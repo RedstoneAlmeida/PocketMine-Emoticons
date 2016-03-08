@@ -1,0 +1,12 @@
+ main: redstone\art\Emoji		
+ api: 1.13.0		
+ load: STARTUP		
+ name: Emoticons		
+ description: plugin that replaces symbols with emoji		
+ version: 1.1		
+ author: Redstone	
+ 
+permissions:		
+   emoji.use:		
+     default: op		
+     description: "allows use of emoji"
